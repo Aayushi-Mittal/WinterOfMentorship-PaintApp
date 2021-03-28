@@ -1,5 +1,5 @@
 # Paint App
-MS Paint on windows was one of the most amazing apps that probably everyone worked on This project will help your own GUI Paint app using Python and Tkinter. This Paint App will have a lot of features, like types of brushes types of colors background colors etc and after making the painting users can save it in as images
+MS Paint on windows was one of the most amazing apps that probably everyone worked on. It is a GUI Paint app using Python and Tkinter. This Paint App will have a lot of features, like types of brushes types of colors background colors etc and after making the painting users can save it in as images
 <!--
 ## Installation :
 1) Python 3
